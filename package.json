@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-facebookads",
+  "name": "cordova-facebook-audnet-sdk",
   "version": "4.23.2",
   "description": "Cordova Plugin for Facebook AudienceNetwork Ads",
   "cordova": {
-    "id": "cordova-plugin-facebookads",
+    "id": "cordova-facebook-audnet-sdk",
     "platforms": [
       "android",
       "ios"
